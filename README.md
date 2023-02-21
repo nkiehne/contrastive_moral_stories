@@ -68,6 +68,7 @@ Note that ~6TB of disk space are needed if all model checkpoints should be kept.
 ***
 **Citation**
 
+```
 @inproceedings{kiehne-etal-2022-contextualizing,
     title = "Contextualizing Language Models for Norms Diverging from Social Majority",
     author = "Kiehne, Niklas  and
@@ -81,3 +82,4 @@ Note that ~6TB of disk space are needed if all model checkpoints should be kept.
     url = "https://aclanthology.org/2022.findings-emnlp.339",
     pages = "4620--4633",
     }
+```
