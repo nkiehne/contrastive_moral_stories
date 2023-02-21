@@ -68,4 +68,16 @@ Note that ~6TB of disk space are needed if all model checkpoints should be kept.
 ***
 **Citation**
 
-Accepted at Findings (*sigh*) of the EMNLP 2022. Bibtex coming soon.
+@inproceedings{kiehne-etal-2022-contextualizing,
+    title = "Contextualizing Language Models for Norms Diverging from Social Majority",
+    author = "Kiehne, Niklas  and
+      Kroll, Hermann  and
+      Balke, Wolf-Tilo",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.339",
+    pages = "4620--4633",
+    }
