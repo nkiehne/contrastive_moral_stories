@@ -1,4 +1,5 @@
 # Supplementary materials for our paper "Contextualizing Language Models for Norms Diverging from Social Majority" (Kiehne et al., 2022)
+## Full paper (EMNLP Findings '22): [Here](https://aclanthology.org/2022.findings-emnlp.339/)
 ***
 
 ### **Data available through [here](http://www.ifis.cs.tu-bs.de/webfm_send/2491) or by cloning the repo!***
