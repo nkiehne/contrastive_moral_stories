@@ -2,7 +2,7 @@
 ## Full paper (EMNLP Findings '22): [Here](https://aclanthology.org/2022.findings-emnlp.339/)
 ***
 
-### **Data available through [here](http://www.ifis.cs.tu-bs.de/webfm_send/2491) or by cloning the repo!***
+### **Data available through [here](http://www.ifis.cs.tu-bs.de/webfm_send/2524) or by cloning the repo!***
 ## Update v1.1: We fixed errornous generations in the `anti_ms` split. For reproducibility, the old data is still there, you can find the new version in `anti_ms_llama` folder.
 
 \* The subfolder `original_ms` contains the `norm-distance` split of the [Moral Stories](https://github.com/demelin/moral_stories) dataset by Emelin et al.!
